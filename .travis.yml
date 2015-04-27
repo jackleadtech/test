@@ -10,8 +10,7 @@ env:
   global:
   - secure: R8bSAYHH/la/h26jOzKgWwVv1YgLd1ZipxP3kIt0Z6SWA0H5K6u4h9I1HNpVP4zHzAdzZchslbVBVLLk+gGiECo3YRIZiLiAvtFyV7UGXk7x+pVZJW94Tp6nEuPV1CAy4kctO+Ot5Ml7YVzJhZYQB0NOSM4A5hjyNuM8i8rQp0g=
   - secure: ef/6QKEoaO/TBVUHOCxNRMSJ2/wm4DQ0B5mk4m50WZRQZrmtFQYJ5jQ3F3DHNCI49FTW078U4ccXky7LjRgNPUUsCdfnc/bee/3RPgDKCZTZQP+aTe96VDpw8GZ4Hgmog24cv6hQ+JyU3X2aAM4Oms9NrUo+AMAoLFoYj2cb+mM=
+  - secure: G+WIdIHTy0tegI+VPSxwT9yMEnxQZijurFlSD6PBxA80sBppaXaBu8Q32KDdO+OCsiSuIlmjW6KuCETfxVu3Y0UGc95HVyvfjyji7WUhZt7k71w0djW3aouGfgdlSZFwZNX2q1qTlIp17we78iyrdeM9kVRTGyOuoy2NiPyoumw=
+  - secure: JE9Bfs7aFjJv5FeJJDwRxrC98pF+H1TZGFWttYQHc0zZOmqgEN26/EjIwqriU7M2ZzaZvVRfBN1z5fhJMjAkLzomHHueQZJlMZu6JZxPS5zmdTIPKW+uPHHglww2SZ/OgvIC8zf4UosHsFRldganwOjV4wGhmoukK7BslYN+wxU=
 addons:
-  sauce_connect:
-    username: jackoportura
-    access_key:
-      secure: bcUuspMBtkcfeD8gE1OYDbcnQ5ygDJU+QUmSYnOSiPm6KblHg+4stGiNSRHlN77MFwmA57GChKIqHeMhE75EWb0p77h4k3PNxhG66rUVI4GA32R/EGyAHCW3clHLGp8Txut3uK5SP2+ChezCV5B1VMqrDe6SouwYiYqd99aD6uY=
+  sauce_connect: true
