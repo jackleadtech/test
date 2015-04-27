@@ -14,4 +14,4 @@ env:
   - secure: JE9Bfs7aFjJv5FeJJDwRxrC98pF+H1TZGFWttYQHc0zZOmqgEN26/EjIwqriU7M2ZzaZvVRfBN1z5fhJMjAkLzomHHueQZJlMZu6JZxPS5zmdTIPKW+uPHHglww2SZ/OgvIC8zf4UosHsFRldganwOjV4wGhmoukK7BslYN+wxU=
 addons:
   sauce_connect: true
-script: phpunit
+script: vendor/bin/phpunit WebDriverDemo.php
