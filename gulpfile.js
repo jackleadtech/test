@@ -60,7 +60,7 @@ var paths = {
 	static: 'src/static/**',
 	test: {
 		input: 'src/js/**/*.js',
-		karma: 'test/karma.conf.js',
+		karma: 'karma.conf.js',
 		spec: 'test/spec/**/*.js',
 		coverage: 'test/coverage/',
 		results: 'test/results/'
