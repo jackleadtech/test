@@ -39,5 +39,8 @@
     "gulp-svgstore": "^2.0.0",
     "gulp-markdown": "^1.0.0",
     "gulp-file-include": "^0.5.1"
+  },
+  "scripts": {
+     "test": "./node_modules/.bin/karma start --single-run --browsers PhantomJS"
   }
 }
